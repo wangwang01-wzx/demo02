@@ -125,6 +125,10 @@ android:orientation="vertical" >
     </LinearLayout>
 ```
 
+实验截图：
+
+![QQ截图20201006004208](C:\Users\ASUS\Desktop\图片\QQ截图20201006004208.png)
+
 二：约束布局
 
 代码：
@@ -228,6 +232,12 @@ android:orientation="vertical" >
 
 ```
 
+实验截图：
+
+![QQ截图20201006004255](C:\Users\ASUS\Desktop\图片\QQ截图20201006004255.png)
+
+
+
 三：表格布局
 
 代码：
@@ -307,4 +317,8 @@ android:orientation="vertical" >
 </LinearLayout>
 
 ```
+
+实验截图：
+
+![QQ截图20201006005300](C:\Users\ASUS\Desktop\图片\QQ截图20201006005300.png)
 
