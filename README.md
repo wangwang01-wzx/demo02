@@ -1,6 +1,8 @@
-# demo02
 一：线性布局
+
 代码：
+
+```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
 android:layout_width="match_parent"
@@ -121,13 +123,14 @@ android:orientation="vertical" >
             android:text="four_four" />
     </LinearLayout>
     </LinearLayout>
-    
-    结果截图：<br>
-    
-    
-    二：约束布局<br>
-    代码:<br>
-    <?xml version="1.0" encoding="utf-8"?>
+```
+
+二：约束布局
+
+代码：
+
+```
+<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -223,10 +226,13 @@ android:orientation="vertical" >
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-结果截图：<br>
+```
 
-三：表格布局：<br>
-代码：<br>
+三：表格布局
+
+代码：
+
+```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
@@ -300,4 +306,5 @@ android:orientation="vertical" >
 </TableLayout>
 </LinearLayout>
 
-结果截图：
+```
+
