@@ -127,7 +127,7 @@ android:orientation="vertical" >
 
 实验截图：
 
-![QQ截图20201006004208](C:\Users\ASUS\Desktop\图片\QQ截图20201006004208.png)
+![QQ截图](https://github.com/wangwang01-wzx/demo02/blob/master/QQ%E6%88%AA%E5%9B%BE20201006004208.png)
 
 二：约束布局
 
@@ -234,7 +234,7 @@ android:orientation="vertical" >
 
 实验截图：
 
-![QQ截图20201006004255](C:\Users\ASUS\Desktop\图片\QQ截图20201006004255.png)
+![QQ截图20201006004255](https://github.com/wangwang01-wzx/demo02/blob/master/QQ%E6%88%AA%E5%9B%BE20201006004255.png)
 
 
 
@@ -320,5 +320,5 @@ android:orientation="vertical" >
 
 实验截图：
 
-![QQ截图20201006005300](C:\Users\ASUS\Desktop\图片\QQ截图20201006005300.png)
+![QQ截图20201006005300](https://github.com/wangwang01-wzx/demo02/blob/master/QQ%E6%88%AA%E5%9B%BE20201006005300.png)
 
