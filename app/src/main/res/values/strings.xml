@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">wzxandzs</string>
+    <string name="title">Hello, I am a TextView</string>
+    <string name="content">Hello, I am a Button</string>
+    <string name="one_one">one,one</string>
+    <string name="one_two">one,two</string>
+    <string name="one_three">one,three</string>
+    <string name="one_four">one,four</string>
+    <string name="two_one">two,one</string>
+    <string name="two_two">two,two</string>
+    <string name="two_three">two,three</string>
+    <string name="two_four">two,four</string>
 </resources>

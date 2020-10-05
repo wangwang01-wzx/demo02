@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+            <Button
+                android:id="@+id/btnSunInvisbile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/one_one" />
+
+            <Button
+                android:id="@+id/btnSunGone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/one_two" />
+
+            <Button
+                android:id="@+id/btnSunVisible"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/one_three" />
+
+            <Button
+                android:id="@+id/btnSunToFlower"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/one_four" />
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnSunInvisbile1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/two_one" />
+
+        <Button
+            android:id="@+id/btnSunGone1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/two_two" />
+
+        <Button
+            android:id="@+id/btnSunVisible1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/two_three" />
+
+        <Button
+            android:id="@+id/btnSunToFlower1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/two_four" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnSunInvisbile2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="three_one" />
+
+        <Button
+            android:id="@+id/btnSunGone2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="three_two" />
+
+        <Button
+            android:id="@+id/btnSunVisible2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="three_three" />
+
+        <Button
+            android:id="@+id/btnSunToFlower2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="three_four" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnSunInvisbile3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="four_one" />
+
+        <Button
+            android:id="@+id/btnSunGone3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="four_two" />
+
+        <Button
+            android:id="@+id/btnSunVisible3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="four_three" />
+
+        <Button
+            android:id="@+id/btnSunToFlower3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="four_four" />
+    </LinearLayout>
+    </LinearLayout>
